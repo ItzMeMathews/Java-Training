@@ -18,7 +18,7 @@ public class StringEquals {
         System.out.println(s1.equals(s3));
         System.out.println(s1.equals(s4));
         System.out.println(s2.equals(s4));
-
+        //Test
 	}
 
 }
