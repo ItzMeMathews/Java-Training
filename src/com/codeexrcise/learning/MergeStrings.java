@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 public class MergeStrings {
 
 	public static void main(String[] args) {
-
+        //Test Commit
 		Scanner s = new Scanner(System.in);
 
 		String str1 = s.nextLine();
