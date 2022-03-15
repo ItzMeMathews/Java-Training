@@ -12,7 +12,7 @@ public class DBConnection {
 	public static void main(String args[]) throws SQLException {
 
 		
-
+        //Test Comment
 		DriverManager.registerDriver(new oracle.jdbc.driver.OracleDriver());
 		Connection con = DriverManager.getConnection("databaseName", "userName", "password");
 		Statement st = con.createStatement();
